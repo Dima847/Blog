@@ -42,3 +42,24 @@ nav li.active, nav li.active:before {
 .carousel a:hover {
  background: rgba(255, 255, 255, 0.2);
 }
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+</style>
+
+.custom-1 {
+font-family: 'Sriracha', cursive;
+}
+.custom-2 {
+font-family: 'Metal Mania', cursive;
+}
+.custom-3 {
+font-family: 'Odibee Sans', cursive;
+}
+.custom-4 {
+font-family: 'Lexend Tera', sans-serif;
+}
+.custom-5 {
+font-family: 'Anton', sans-serif;
+}
